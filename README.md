@@ -1,17 +1,11 @@
-# flutterconflatam_rive_main
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # flutterConfLatam-rive
+
+Connecting Rive Animations in Flutter
+This Dash mascot animation can jump, get angry, and change the color of its crest.
+
+Rive Url: https://rive.app/community/files/14097-26591-flutter-dash-animation/
+
+Preview
+
+https://github.com/user-attachments/assets/584ad848-0d57-427e-a4f0-9c6704ea5638
+
